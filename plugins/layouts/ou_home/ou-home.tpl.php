@@ -19,14 +19,21 @@
    
      
   <div class="row">
-    <?php print $content['bottom1']; ?>
+	<div class="col-md-12">
+		<?php print $content['bottom1']; ?>
+	</div>
   </div>
   
    <div class="row">
-    <?php print $content['bottom2']; ?>
+	<div class="col-md-12">
+		<?php print $content['bottom2']; ?>
+	</div>
   </div>
   
    <div class="row">
-    <?php print $content['bottom3']; ?>
+	<div class="col-md-12">
+		<?php print $content['bottom3']; ?>
+	</div>
   </div>
+  <div style="clear"></div>
 </div>
