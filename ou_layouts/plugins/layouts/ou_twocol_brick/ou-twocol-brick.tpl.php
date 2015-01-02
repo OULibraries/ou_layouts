@@ -12,6 +12,11 @@
 			<?php print $content['tright']; ?>
 		</div>
 	  </div>
+	  <div class="row">
+	  <div class="col-md-12">
+		<?php print $content['header']; ?>
+	  </div>
+	  </div>
 	    <div class="row">
 		<div class="col-md-6">
 			<?php print $content['mleft']; ?>
