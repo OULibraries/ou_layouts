@@ -12,7 +12,15 @@
 			<?php print $content['tright']; ?>
 		</div>
 	  </div>
-	   
+	    <div class="row">
+		<div class="col-md-6">
+			<?php print $content['mleft']; ?>
+		</div>
+		
+		<div class="col-md-6">
+			<?php print $content['mright']; ?>
+		</div>	
+	   </div>
 	   <div class="row">
 		<div class="col-md-6">
 			<?php print $content['bleft']; ?>
