@@ -13,9 +13,9 @@
 		</div>
 	  </div>
 	  <div class="row">
-	  <div class="col-md-12">
-		<?php print $content['header']; ?>
-	  </div>
+		<div class="col-md-12">
+		<?php print $content['mheader']; ?>
+		</div>
 	  </div>
 	    <div class="row">
 		<div class="col-md-6">
