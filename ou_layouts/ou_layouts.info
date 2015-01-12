@@ -1,6 +1,0 @@
-name = University of Oklahoma Panels Layouts
-description = Panel layouts using twitter bootstrap layout system as base.
-package = Panels
-dependencies[] = panels
-core = 7.x
-version = 7.x-3.4+7-dev
