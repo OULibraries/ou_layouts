@@ -21,6 +21,9 @@
 
 .panels-dnd .ou-twocol-brick #panel-region-tleft {width: 48.0%;}
 .panels-dnd .ou-twocol-brick #panel-region-tright {width: 48.0%;}
+.panels-dnd .ou-twocol-brick #panel-region-mheader {width: 98.0%;}
+.panels-dnd .ou-twocol-brick #panel-region-mleft {width: 48.0%;}
+.panels-dnd .ou-twocol-brick #panel-region-mright {width: 48.0%;}
 .panels-dnd .ou-twocol-brick #panel-region-bleft {width: 48.0%;}
 .panels-dnd .ou-twocol-brick #panel-region-bright {width: 48.0%;}
 
@@ -39,5 +42,6 @@
 .panels-dnd .ou-locations #panel-region-left {width: 48.0%;}
 .panels-dnd .ou-locations #panel-region-right {width: 48.0%;}
 .panels-dnd .ou-locations #panel-region-bottom {width: 98.0%;}
-.panels-dnd .ou-locations #panel-region-footerl {width: 48.0%;}
-.panels-dnd .ou-locations #panel-region-footerr {width: 48.0%;}
+.panels-dnd .ou-locations #panel-region-footerl {width: 31.333%;}
+.panels-dnd .ou-locations #panel-region-footerl {width: 31.333%;}
+.panels-dnd .ou-locations #panel-region-footerr {width: 31.333%;}
