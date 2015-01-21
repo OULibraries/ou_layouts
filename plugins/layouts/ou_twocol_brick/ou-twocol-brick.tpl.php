@@ -1,4 +1,6 @@
-<div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
+ <!-- used on about and resources page -->
+ <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
+ 
   <div class="container-fluid">
 	  <div class="row">
 		<?php print $content['top']; ?>
