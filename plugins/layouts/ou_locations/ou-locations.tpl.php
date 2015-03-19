@@ -21,7 +21,7 @@
 			</div>
 		</div>
 		
-		<div class="row location_middle">
+		<div class="row">
 			<div class="col-md-6">
 				<?php print $content['left']; ?>
 			</div>
@@ -29,6 +29,16 @@
 				<?php print $content['right']; ?>
 			</div>
 		</div>
+		
+		<div class="row location_middle">
+			<div class="col-md-6">
+				<?php print $content['tleft']; ?>
+			</div>
+		
+			<div class="col-md-6">
+				<?php print $content['tright']; ?>
+			</div>
+		</DIV>	
 		
 		<div class="row location_bottom">
 			<div class="col-md-12">
