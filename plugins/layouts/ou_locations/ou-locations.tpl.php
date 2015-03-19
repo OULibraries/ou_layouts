@@ -30,7 +30,7 @@
 			</div>
 		</div>
 		
-		<div class="row location_description">
+		<div class="row location_middle">
 			<div class="col-md-6">
 				<?php print $content['tleft']; ?>
 			</div>
