@@ -1,4 +1,5 @@
 <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
+		<div class="container-fluid">
 		<div class="row location_header">
 			<div class="col-md-8">
 				<?php print $content['header_img']; ?>
@@ -29,9 +30,7 @@
 			</div>
 		</div>
 		
-		<div class="location_middle">
 		<div class="row">
-		
 			<div class="col-md-6">
 				<?php print $content['tleft']; ?>
 			</div>
@@ -39,8 +38,7 @@
 			<div class="col-md-6">
 				<?php print $content['tright']; ?>
 			</div>
-			</div>
-		</DIV>	
+		</div>	
 		
 		<div class="row location_bottom">
 			<div class="col-md-12">
@@ -59,6 +57,6 @@
 				<?php print $content['footerr']; ?>
 			</div>
 		</div>
-		 
+		 </div>
 	</div>
 
