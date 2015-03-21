@@ -15,6 +15,7 @@ $plugin = array(
     'header_side' => t('Header Side'),
     'description' => t('Location Description'),
 	'top' => t('Top'),
+	'extra' => t('Extra'),
     'tleft' => t('Top Left'),
     'tright' => t('Top Right'),
 	'middle' => t('Middle'),

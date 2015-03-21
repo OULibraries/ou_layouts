@@ -15,6 +15,24 @@
 			</div>
 		</div>
 		
+		<div class="row">
+			<div class="col-md-12">
+				<?php print $content['extra']; ?>
+			</div>
+		</div>
+		
+		<div class="location_middle">
+		<div class="row">
+			<div class="col-md-6">
+				<?php print $content['mleft']; ?>
+			</div>
+		
+			<div class="col-md-6">
+				<?php print $content['mright']; ?>
+			</div>
+			</div>
+		</div>	
+		
 		<div class="row location_top">
 			<div class="col-md-12">
 				<?php print $content['top']; ?>
@@ -36,17 +54,6 @@
 			</div>
 		</div>
 		
-		<div class="location_middle">
-		<div class="row">
-			<div class="col-md-6">
-				<?php print $content['mleft']; ?>
-			</div>
-		
-			<div class="col-md-6">
-				<?php print $content['mright']; ?>
-			</div>
-			</div>
-		</div>	
 		
 		<div class="row location_bottom">
 			<div class="col-md-12">
