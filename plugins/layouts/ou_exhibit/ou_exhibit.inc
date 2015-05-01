@@ -5,10 +5,10 @@
  */
 // Plugin definition
 $plugin = array(
-  'title' => t('Two Columns Brick'),
+  'title' => t('OU Exhibits'),
   'category' => t('Bootstrap'),
-  'icon' => 'ou_twocol_brick.png',
-  'theme' => 'ou_twocol_brick',
+  'icon' => 'ou_exhibit.png',
+  'theme' => 'ou_exhibit',
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
     'top' => t('Top'),

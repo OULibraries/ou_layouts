@@ -30,10 +30,10 @@
 .panels-dnd .ou-exhibit #panel-region-tleft {width: 48.0%;}
 .panels-dnd .ou-exhibit #panel-region-tright {width: 48.0%;}
 .panels-dnd .ou-exhibit #panel-region-mheader {width: 98.0%;}
-.panels-dnd .ou-exhibit #panel-region-mleft {width: 66.0%;}
-.panels-dnd .ou-exhibit #panel-region-mright {width: 33.0%;}
-.panels-dnd .ou-exhibit #panel-region-bleft {width: 48.0%;}
-.panels-dnd .ou-exhibit #panel-region-bright {width: 48.0%;}
+.panels-dnd .ou-exhibit #panel-region-mleft {width: 48.0%;}
+.panels-dnd .ou-exhibit #panel-region-mright {width: 48.0%;}
+.panels-dnd .ou-exhibit #panel-region-bleft {width: 63.0%;}
+.panels-dnd .ou-exhibit #panel-region-bright {width: 33.0%;}
 
 .panels-dnd .ou-home #panel-region-top {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-tleft {width: 32.0%;}

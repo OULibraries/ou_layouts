@@ -20,20 +20,20 @@
 		
 	  </div>
 	    <div class="row">
-		<div class="col-md-9">
+		<div class="col-md-6">
 			<?php print $content['mleft']; ?>
 		</div>
 		
-		<div class="col-md-3">
+		<div class="col-md-6">
 			<?php print $content['mright']; ?>
 		</div>	
 	   </div>
-	   <div class="row">
-		<div class="col-md-6">
+	   <div class="row exhibit-map">
+		<div class="col-md-8 col-sm-6">
 			<?php print $content['bleft']; ?>
 		</div>
 		
-		<div class="col-md-6">
+		<div class="col-md-4 col-sm-6">
 			<?php print $content['bright']; ?>
 		</div>	
 	  </div>
