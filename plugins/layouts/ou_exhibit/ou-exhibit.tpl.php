@@ -3,7 +3,9 @@
  
   <div class="container-fluid">
 	  <div class="row">
+		<div style="margin:0px 15px 0px 15px;">
 		<?php print $content['top']; ?>
+		</div>
 	  </div>
 	  <div class="row location_middle">
 		<div class="col-md-6">
@@ -28,7 +30,7 @@
 			<?php print $content['mright']; ?>
 		</div>	
 	   </div>
-	   <div class="row exhibit-map">
+	   <div class="row exhibit-map" style="margin-left:0px;">
 		<div class="col-md-8 col-sm-6">
 			<?php print $content['bleft']; ?>
 		</div>
@@ -39,7 +41,9 @@
 	  </div>
 	  
 	  <div class="row">
+		<div style="margin:0px 15px 0px 15px;">
 		<?php print $content['bottom']; ?>
+		</div>
 	  </div>
 	</div>
 </div>
