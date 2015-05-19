@@ -30,7 +30,7 @@
 			<?php print $content['mright']; ?>
 		</div>	
 	   </div>
-	   <div class="row exhibit-map" style="margin-left:0px;">
+	   <div class="row" style="margin-left:0px; margin-right:0px;">
 		<div class="col-md-8 col-sm-6">
 			<?php print $content['bleft']; ?>
 		</div>
