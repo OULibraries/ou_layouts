@@ -5,7 +5,7 @@
  */
 // Plugin definition
 $plugin = array(
-  'title' => t('Two Columns Stacked'),
+  'title' => t('Two Columns Stacked2'),
   'category' => t('Bootstrap'),
   'icon' => 'ou_twocol_stacked.png',
   'theme' => 'ou_twocol_stacked',
