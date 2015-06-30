@@ -36,10 +36,10 @@
 			<div class="col-md-3">
 				<?php print $content['mleft']; ?>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<?php print $content['mmiddle']; ?>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<?php print $content['mright']; ?>
 			</div>
 	   </div>
