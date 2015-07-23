@@ -70,7 +70,12 @@
 .panels-dnd .ou-bizzell #panel-region-footerl {width: 31.333%;}
 .panels-dnd .ou-bizzell #panel-region-footerr {width: 31.333%;}
 
+.panels-dnd .ou-resources #panel-region-top1 {width: 74.0%;}
+.panels-dnd .ou-resources #panel-region-top2 {width: 23.0%;}
 .panels-dnd .ou-resources #panel-region-top {width: 98.0%;}
+.panels-dnd .ou-resources #panel-region-topl {width: 31.333%;}
+.panels-dnd .ou-resources #panel-region-topm {width: 31.333%;}
+.panels-dnd .ou-resources #panel-region-topr {width: 31.333%;}
 .panels-dnd .ou-resources #panel-region-main {width: 73.0%;}
 .panels-dnd .ou-resources #panel-region-sidebar {width: 23.0%;}
 .panels-dnd .ou-resources #panel-region-middle {width: 98.0%;}
