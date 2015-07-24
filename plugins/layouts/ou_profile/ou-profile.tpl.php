@@ -8,11 +8,11 @@
 			<?php print $content['tleft']; ?>
 		</div>
 		
-		<div class="col-md-3">
+		<div class="col-md-5">
 			<?php print $content['tmid']; ?>
 		</div>
 		
-		<div class="col-md-6">
+		<div class="col-md-4">
 			<?php print $content['tright']; ?>
 		</div>
 	  </div>
