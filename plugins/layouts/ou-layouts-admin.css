@@ -43,6 +43,14 @@
 .panels-dnd .ou-home #panel-region-bottom2 {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-bottom3 {width: 98.0%;}
 
+.panels-dnd .ou-profile #panel-region-top {width: 32.0%;}
+.panels-dnd .ou-profile #panel-region-tleft {width: 98.0%;}
+.panels-dnd .ou-profile #panel-region-tmid {width: 32.0%;}
+.panels-dnd .ou-profile #panel-region-tright {width: 32.0%;}
+.panels-dnd .ou-profile #panel-region-bottom1 {width: 98.0%;}
+.panels-dnd .ou-profile #panel-region-bottom2 {width: 98.0%;}
+.panels-dnd .ou-profile #panel-region-bottom3 {width: 98.0%;}
+
 .panels-dnd .ou-locations #panel-region-header_img {width: 58.0%;}
 .panels-dnd .ou-locations #panel-region-header_side {width: 38.0%;}
 .panels-dnd .ou-locations #panel-region-description {width: 98.0%;}
