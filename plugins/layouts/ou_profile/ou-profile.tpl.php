@@ -3,26 +3,25 @@
 	  <div class="row">
 		<?php print $content['top']; ?>
 	  </div>
-	  <div class="row quicklinks">
-		<div class="col-md-3">
-			<?php print $content['tleft']; ?>
+	  <div class="row">
+		<div class="col-md-3 col-sm-4 col-xs-12">
+			<?php print $content['lmiddle']; ?>
 		</div>
 		
-		<div class="col-md-5">
-			<?php print $content['tmid']; ?>
-		</div>
-		
-		<div class="col-md-4">
-			<?php print $content['tright']; ?>
-		</div>
+		<div class="col-md-9 col-sm-8 col-xs-12">
+			<?php print $content['rmiddle']; ?>
+		</div>	
 	  </div>
-	   
-		 
+	  
+	  <div class="row">
+		<?php print $content['middle']; ?>
+	  </div>
+	  		 
 	  <div class="row">
 		<?php print $content['bottom1']; ?>
 	  </div>
 	  
-	   <div class="row announcements">
+	   <div class="row">
 		<?php print $content['bottom2']; ?>
 	  </div>
 	  

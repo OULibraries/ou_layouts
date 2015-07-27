@@ -37,19 +37,19 @@
 
 .panels-dnd .ou-home #panel-region-top {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-tleft {width: 12.0%;}
-.panels-dnd .ou-home #panel-region-tmid {width: 42.0%;}
-.panels-dnd .ou-home #panel-region-tright {width: 42.0%;}
+.panels-dnd .ou-home #panel-region-tmid {width: 62.0%;}
+.panels-dnd .ou-home #panel-region-tright {width: 22.0%;}
 .panels-dnd .ou-home #panel-region-bottom1 {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-bottom2 {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-bottom3 {width: 98.0%;}
 
 .panels-dnd .ou-profile #panel-region-top {width: 98.0%;}
-.panels-dnd .ou-profile #panel-region-tleft {width: 98.0%;}
-.panels-dnd .ou-profile #panel-region-tmid {width: 32.0%;}
-.panels-dnd .ou-profile #panel-region-tright {width: 32.0%;}
-.panels-dnd .ou-profile #panel-region-bottom1 {width: 98.0%;}
-.panels-dnd .ou-profile #panel-region-bottom2 {width: 98.0%;}
-.panels-dnd .ou-profile #panel-region-bottom3 {width: 98.0%;}
+.panels-dnd .ou-profile #panel-region-lmiddle {width: 26.0%;}
+.panels-dnd .ou-profile #panel-region-rmiddle {width: 71.0%;}
+.panels-dnd .ou-profile #panel-region-middle {width: 98.0%;}
+.panels-dnd .ou-profile #panel-region-bottom1 {width: 31.3%;}
+.panels-dnd .ou-profile #panel-region-bottom2 {width: 31.3%;}
+.panels-dnd .ou-profile #panel-region-bottom3 {width: 31.3%;}
 
 .panels-dnd .ou-locations #panel-region-header_img {width: 58.0%;}
 .panels-dnd .ou-locations #panel-region-header_side {width: 38.0%;}
