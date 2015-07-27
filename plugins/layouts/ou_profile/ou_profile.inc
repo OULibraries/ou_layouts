@@ -5,10 +5,10 @@
  */
 // Plugin definition
 $plugin = array(
-  'title' => t('OU Home'),
+  'title' => t('OU Profile'),
   'category' => t('Bootstrap'),
-  'icon' => 'ou_home.png',
-  'theme' => 'ou-home',
+  'icon' => 'ou_profile.png',
+  'theme' => 'ou-profile',
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
     'top' => t('Top'),
