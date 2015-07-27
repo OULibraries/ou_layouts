@@ -36,14 +36,14 @@
 .panels-dnd .ou-exhibit #panel-region-bright {width: 33.0%;}
 
 .panels-dnd .ou-home #panel-region-top {width: 98.0%;}
-.panels-dnd .ou-home #panel-region-tleft {width: 32.0%;}
-.panels-dnd .ou-home #panel-region-tmid {width: 32.0%;}
-.panels-dnd .ou-home #panel-region-tright {width: 32.0%;}
+.panels-dnd .ou-home #panel-region-tleft {width: 12.0%;}
+.panels-dnd .ou-home #panel-region-tmid {width: 42.0%;}
+.panels-dnd .ou-home #panel-region-tright {width: 42.0%;}
 .panels-dnd .ou-home #panel-region-bottom1 {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-bottom2 {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-bottom3 {width: 98.0%;}
 
-.panels-dnd .ou-profile #panel-region-top {width: 32.0%;}
+.panels-dnd .ou-profile #panel-region-top {width: 98.0%;}
 .panels-dnd .ou-profile #panel-region-tleft {width: 98.0%;}
 .panels-dnd .ou-profile #panel-region-tmid {width: 32.0%;}
 .panels-dnd .ou-profile #panel-region-tright {width: 32.0%;}
