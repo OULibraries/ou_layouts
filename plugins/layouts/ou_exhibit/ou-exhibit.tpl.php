@@ -41,7 +41,7 @@
 	  </div>
 	  
 	  <div class="row">
-		<div style="margin:0px 15px 0px 15px;">
+		<!-- <div style="margin:0px 15px 0px 15px;"> -->
 		<?php print $content['bottom']; ?>
 		</div>
 	  </div>
