@@ -5,7 +5,7 @@
 	  <div class="row">
 		<?php print $content['top']; ?>
 	  </div>
-	  <div class="row">
+	  <div>
 		<div class="col-md-6">
 			<?php print $content['tleft']; ?>
 		</div>
