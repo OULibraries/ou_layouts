@@ -2,10 +2,10 @@
 		<div class="container-fluid">
 		<div class="row location_header">
 			<div class="col-md-4">
-				<?php print $content['room_pic']; ?>
+				<?php print $content['rooms_pic']; ?>
 			</div>
 			<div class="col-md-8">
-				<?php print $content['room_description']; ?>
+				<?php print $content['rooms_description']; ?>
 			</div>
 		</div>
 		
