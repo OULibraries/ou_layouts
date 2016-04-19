@@ -7,8 +7,8 @@
 $plugin = array(
   'title' => t('Locations Index'),
   'category' => t('Bootstrap'),
-  'icon' => 'ou_locations_index.png',
-  'theme' => 'ou_locations_index',
+  'icon' => 'ou_location_index.png',
+  'theme' => 'ou_location_index',
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
     'top' => t('Top'),
