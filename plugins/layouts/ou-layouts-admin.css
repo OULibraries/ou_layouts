@@ -44,9 +44,9 @@
 .panels-dnd .ou-exhibit #panel-region-bright {width: 33.0%;}
 
 .panels-dnd .ou-home #panel-region-top {width: 98.0%;}
-.panels-dnd .ou-home #panel-region-tleft {width: 12.0%;}
-.panels-dnd .ou-home #panel-region-tmid {width: 62.0%;}
-.panels-dnd .ou-home #panel-region-tright {width: 22.0%;}
+.panels-dnd .ou-home #panel-region-tleft {width: 33.0%;}
+.panels-dnd .ou-home #panel-region-tmid {width: 33.0%;}
+.panels-dnd .ou-home #panel-region-tright {width: 33.0%;}
 .panels-dnd .ou-home #panel-region-bottom1 {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-bottom2 {width: 98.0%;}
 .panels-dnd .ou-home #panel-region-bottom3 {width: 98.0%;}
@@ -69,18 +69,19 @@
 .panels-dnd .ou-locations #panel-region-tright {width: 48.0%;}
 .panels-dnd .ou-locations #panel-region-bottom {width: 98.0%;}
 .panels-dnd .ou-locations #panel-region-footerl {width: 31.333%;}
-.panels-dnd .ou-locations #panel-region-footerl {width: 31.333%;}
+.panels-dnd .ou-locations #panel-region-footerm {width: 31.333%;}
 .panels-dnd .ou-locations #panel-region-footerr {width: 31.333%;}
 
 .panels-dnd .ou-bizzell #panel-region-header_img {width: 58.0%;}
 .panels-dnd .ou-bizzell #panel-region-header_side {width: 38.0%;}
 .panels-dnd .ou-bizzell #panel-region-description {width: 98.0%;}
 .panels-dnd .ou-bizzell #panel-region-extra {width: 98.0%;}
+.panels-dnd .ou-bizzell #panel-region-mleft {width: 48.0%;}
+.panels-dnd .ou-bizzell #panel-region-mright {width: 48.0%;}
 .panels-dnd .ou-bizzell #panel-region-top {width: 98.0%;}
-.panels-dnd .ou-bizzell #panel-region-left {width: 48.0%;}
-.panels-dnd .ou-bizzell #panel-region-right {width: 48.0%;}
 .panels-dnd .ou-bizzell #panel-region-tleft {width: 48.0%;}
 .panels-dnd .ou-bizzell #panel-region-tright {width: 48.0%;}
+.panels-dnd .ou-bizzell #panel-region-middle {width: 98.0%;}
 .panels-dnd .ou-bizzell #panel-region-bottom {width: 98.0%;}
 .panels-dnd .ou-bizzell #panel-region-footerl {width: 31.333%;}
 .panels-dnd .ou-bizzell #panel-region-footerl {width: 31.333%;}
@@ -123,7 +124,7 @@
 .panels-dnd .ou-rooms #panel-region-tright {width: 48.0%;}
 .panels-dnd .ou-rooms #panel-region-bottom {width: 98.0%;}
 .panels-dnd .ou-rooms #panel-region-footerl {width: 31.333%;}
-.panels-dnd .ou-rooms #panel-region-footerl {width: 31.333%;}
+.panels-dnd .ou-rooms #panel-region-footerm {width: 31.333%;}
 .panels-dnd .ou-rooms #panel-region-footerr {width: 31.333%;}
 
 
