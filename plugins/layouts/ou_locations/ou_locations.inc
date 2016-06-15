@@ -11,6 +11,7 @@ $plugin = array(
   'theme' => 'ou_locations',
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
+    'subheader' => t('Sub Header'),
     'header_img' => t('Header Image'),
     'header_side' => t('Header Side'),
     'description' => t('Location Description'),

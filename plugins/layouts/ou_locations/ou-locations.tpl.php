@@ -1,6 +1,11 @@
 <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
 		<div class="container-fluid">
 		<div class="row location_header">
+		
+			<div class="col-md-12">
+				<?php print $content['subheader']; ?>
+			</div>
+			
 			<div class="col-md-8">
 				<?php print $content['header_img']; ?>
 			</div>
