@@ -12,8 +12,10 @@ $plugin = array(
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
     'top' => t('Top'),
-    'sidebar' => t('Sidebar'),
+    'sidebar' => t('Sidebar Black'),
     'body' => t('Body'),
+	'sidebar1' => t('Sidebar White'),
+    'body1' => t('Body Top'),
 	'bottom' => t('Bottom'),
 	
   ),

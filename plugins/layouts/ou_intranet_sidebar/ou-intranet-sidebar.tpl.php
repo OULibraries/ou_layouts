@@ -8,6 +8,16 @@
 		</div>
 		
 		<div class="row">
+			<div class="col-md-3">
+				<?php print $content['sidebar1']; ?>
+			</div>
+		
+			<div class="col-md-9">
+				<?php print $content['body1']; ?>
+			</div>
+		</div>
+		
+		<div class="row">
 			<div class="col-md-3 sidebar">
 				<?php print $content['sidebar']; ?>
 			</div>
