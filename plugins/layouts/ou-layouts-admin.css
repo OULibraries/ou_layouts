@@ -135,6 +135,20 @@
 .panels-dnd .ou-intranet-sidebar #panel-region-body1 {width: 64.0%;}
 .panels-dnd .ou-intranet-sidebar #panel-region-bottom {width: 98.0%;}
 
+.panels-dnd .ou-stats #panel-region-tleft {width: 64.0%;}
+.panels-dnd .ou-stats #panel-region-tright {width: 32.0%;}
+.panels-dnd .ou-stats #panel-region-tleft2 {width: 64.0%;}
+/*.panels-dnd .ou-stats #panel-region-mheader {width: 98.0%;}*/
+/*.panels-dnd .ou-stats #panel-region-mleft {width: 48.0%;}*/
+/*.panels-dnd .ou-stats #panel-region-mright {width: 48.0%;}*/
+/*.panels-dnd .ou-stats #panel-region-bleft {width: 64.0%;}*/
+/*.panels-dnd .ou-stats #panel-region-bright {width: 33.0%;}*/
+.panels-dnd .ou-stats #panel-region-mleft1of3 {width: 21.0%;}
+.panels-dnd .ou-stats #panel-region-mleft2of3 {width: 21.0%;}
+.panels-dnd .ou-stats #panel-region-mleft3of3 {width: 21.0%;}
+.panels-dnd .ou-stats #panel-region-bleft1of2 {width: 32.0%;}
+.panels-dnd .ou-stats #panel-region-bleft2of2 {width: 32.0%;}
+
 
 
 
