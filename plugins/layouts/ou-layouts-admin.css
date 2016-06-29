@@ -131,8 +131,24 @@
 .panels-dnd .ou-intranet-sidebar #panel-region-top {width: 98.0%;}
 .panels-dnd .ou-intranet-sidebar #panel-region-sidebar {width: 32.0%;}
 .panels-dnd .ou-intranet-sidebar #panel-region-body {width: 64.0%;}
+.panels-dnd .ou-intranet-sidebar #panel-region-sidebar1 {width: 32.0%;}
+.panels-dnd .ou-intranet-sidebar #panel-region-body1 {width: 64.0%;}
 .panels-dnd .ou-intranet-sidebar #panel-region-bottom {width: 98.0%;}
 
+.panels-dnd .ou-about #panel-region-top1 {width: 58.0%;}
+.panels-dnd .ou-about #panel-region-top2 {width: 38.0%;}
+.panels-dnd .ou-about #panel-region-left {width: 48.0%;}
+.panels-dnd .ou-about #panel-region-right {width: 48.0%;}
+.panels-dnd .ou-about #panel-region-item1 {width: 15.0%;}
+.panels-dnd .ou-about #panel-region-item2 {width: 15.0%;}
+.panels-dnd .ou-about #panel-region-item3 {width: 15.0%;}
+.panels-dnd .ou-about #panel-region-item4 {width: 15.0%;}
+.panels-dnd .ou-about #panel-region-item5 {width: 15.0%;}
+.panels-dnd .ou-about #panel-region-item6 {width: 15.0%;}
+.panels-dnd .ou-about #panel-region-mleft {width: 58.0%;}
+.panels-dnd .ou-about #panel-region-mright {width: 38.0%;}
+.panels-dnd .ou-about #panel-region-middle {width: 98.0%;}
+.panels-dnd .ou-about #panel-region-bottom {width: 98.0%;}
 
 
 
