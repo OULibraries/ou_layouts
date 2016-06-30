@@ -3,24 +3,13 @@
  
   <div class="container-fluid">
   
-	  <div class="row" style="margin:0px 0px 0px 0px;">
+	  <div class="row">
 		<div class="col-md-8">
 			<?php print $content['top1']; ?>
 		</div>
 		
 		<div class="col-md-4">
 			<?php print $content['top2']; ?>
-		</div>
-	  </div>
-	  
-	  
-	  <div class="row">
-		<div class="col-md-6">
-			<?php print $content['left']; ?>
-		</div>
-		
-		<div class="col-md-6">
-			<?php print $content['right']; ?>
 		</div>
 	  </div>
 	  
@@ -61,20 +50,29 @@
 			<?php print $content['mright']; ?>
 		</div>
 	 </div>
-	  
-	  
-	  <div class="row content-border">
-		<div style="margin:0px 15px 0px 15px;">
-			<?php print $content['middle']; ?>
+	 
+	 
+	 <div class="row">
+		<div class="col-md-6">
+			<?php print $content['left1']; ?>
+		</div>
+		
+		<div class="col-md-6">
+			<?php print $content['right1']; ?>
 		</div>
 	  </div>
 	  
 	  
-	  <div class="row content-border">
-		<div style="margin:0px 15px 0px 15px;">
-		<?php print $content['bottom']; ?>
+	  <div class="row">
+		<div class="col-md-6">
+			<?php print $content['left2']; ?>
+		</div>
+		
+		<div class="col-md-6">
+			<?php print $content['right2']; ?>
 		</div>
 	  </div>
+	  
 	  
 	</div>
 	

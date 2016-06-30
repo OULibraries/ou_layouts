@@ -12,9 +12,7 @@ $plugin = array(
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
     'top1' => t('Welcome'),
-	'top2' => t('Pillars'),
-	'left' => t('Left'),
-	'right' => t('Right'),
+	'top2' => t('Menu'),
     'item1' => t('Item 1'),
     'item2' => t('Item 2'),
 	'item3' => t('Item 3'),
@@ -23,7 +21,9 @@ $plugin = array(
 	'item6' => t('Item 6'),
 	'mleft' => t('Middle Left'),
 	'mright' => t('Middle Right'),
-	'middle' => t('Middle'),
-    'bottom' => t('Bottom'),
+	'left1' => t('Bottom Left 1'),
+	'right1' => t('Bottom Right 1'),
+	'left2' => t('Bottom Left 2'),
+    'right2' => t('Bottom Right 2'),
   ),
 );
