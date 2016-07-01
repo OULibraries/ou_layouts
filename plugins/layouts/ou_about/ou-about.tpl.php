@@ -13,7 +13,7 @@
 	  </div>
 	  
 	  
-	  <div class="row content-border">
+	  <div class="row content-border" style="margin:10px 0 10px 0;>
 		<div class="col-md-2">
 			<?php print $content['item1']; ?>
 		</div>
@@ -51,7 +51,7 @@
 	 </div>
 	 
 	 
-	 <div class="row">
+	 <div class="row content-border">
 		<div class="col-md-6">
 			<?php print $content['left1']; ?>
 		</div>
@@ -62,7 +62,7 @@
 	  </div>
 	  
 	  
-	  <div class="row">
+	  <div class="row content-border">
 		<div class="col-md-6">
 			<?php print $content['left2']; ?>
 		</div>
