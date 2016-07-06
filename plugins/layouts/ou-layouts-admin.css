@@ -184,7 +184,11 @@
 .panels-dnd .ou-more-stats #panel-region-foot4 {width: 23.0%;}
 .panels-dnd .ou-more-stats #panel-region-foot5 {width: 23.0%;}
 
-
-
-
-
+.panels-dnd .ou-intranet-docs #panel-region-top {width: 98.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-navbar {width: 88.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-body {width: 64.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-section1 {width: 64.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-section2 {width: 64.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-section3 {width: 64.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-sidebar {width: 32.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-bottom {width: 98.0%;}
