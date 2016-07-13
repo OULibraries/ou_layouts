@@ -13,6 +13,10 @@
 	  </div>
 	  
 	  
+	  <div class="col-md-12">
+		<h2>SENIOR TEAM</h2>
+	  </div>
+	  
 	  <div class="row content-border">
 		<div class="col-md-2">
 			<?php print $content['item1']; ?>
@@ -51,6 +55,10 @@
 	 </div>
 	 
 	 
+	  <div class="col-md-12">
+		<h2>COMMITTEES</h2>
+	  </div>
+	 
 	 <div class="row content-border">
 		<div class="col-md-6">
 			<?php print $content['left1']; ?>
@@ -61,6 +69,10 @@
 		</div>
 	  </div>
 	  
+	  
+	  <div class="col-md-12">
+		<h2>UNITS</h2>
+	  </div>
 	  
 	  <div class="row content-border">
 		<div class="col-md-6">
