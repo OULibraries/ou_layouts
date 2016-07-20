@@ -4,11 +4,11 @@
 
 	<header class="title container">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-12" id="title">
+			<div class="col-md-12" id="title">
 				<?php print $content['top']; ?>
 
 					<div class="nav button row">
-						<section class="col-sm-offset-3 col-md-offset-1 col-lg-offset-1" id="navbutton">
+						<section class="col-md-offset-1" id="navbutton">
 							<?php print $content['navbar']; ?>
 						</section>
 				</div>
@@ -20,17 +20,17 @@
 
 	<div class="content container">
 		<div class="row">
-			<div class="col-sm-8 col-md-8 col-lg-8">
+			<div class="col-md-8">
 				<?php print $content['body']; ?>
 
 				<section class="row" id="search">
-				<div class="col-sm-4 col-md-4 col-lg-4">
+				<div class="col-md-4">
 						<?php print $content['section1']; ?>
 				</div>
 			</section>
 
 			<section class="row">
-				<div class="div-md-12" id="recent">
+				<div class="col-md-12" id="recent">
 						<?php print $content['section2']; ?>
 				</div>
 			</section>
@@ -43,7 +43,7 @@
 
 		</div> <!--end column search, recent, collections-->
 
-		<section class ="col-sm-offset-1 col-sm-3 col-md-offset-1 col-md-3 col-lg-3" id="toolkits">
+		<section class ="col-md-offset-1 col-md-3" id="toolkits">
 			<?php print $content['sidebar']; ?>
 		</section>
 
@@ -52,7 +52,7 @@
 
 <!--footer-->
 	<footer class="container-fluid">
-		<section class="col-sm-12 col-md-12 col-lg-12" id="footer">
+		<section class="col-md-12" id="footer">
 			<?php print $content['bottom']; ?>
 		</section>
 	</footer>
