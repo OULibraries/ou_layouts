@@ -4,13 +4,14 @@
 
 	<div class="container-fluid">
 		<div class="row title">
-			<div class="col-md-12" id="title">
+			<div class="col-md-8 col-lg-8" id="title">
 				<?php print $content['top']; ?>
 			</div>
 		</div>
 
 
 	<div class="row search">
+		<div class="col-md-8 col-lg-8">
 		<section class="col-xs-12 col-sm-4 col-md-4" id="searchbutton1">
 			<?php print $content['search1']; ?>
 		</section>
@@ -24,6 +25,7 @@
 		</section>
 		</div>
 	</div>
+</div>
 
 <!--start 2 column layout-->
 
