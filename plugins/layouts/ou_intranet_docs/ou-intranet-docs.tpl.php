@@ -31,10 +31,11 @@
 
 	<div class="container-fluid">
 		<div class="row content">
-			<div class="col-md-8">
+			<div class="col-md-8 col-lg-8">
 				<?php print $content['body']; ?>
 
 				<section class="row">
+				<div class ="col-md-8 col-lg-8">
 				<div class="col-xs-12 col-sm-4 col-md-4">
 						<?php print $content['section1']; ?>
 				</div>
@@ -52,6 +53,7 @@
 				</div>
 			</section>
 
+		</div>
 		</div> <!--end column search, recent, collections-->
 
 		<section class ="col-md-3" id="toolkits">
