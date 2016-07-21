@@ -4,7 +4,7 @@
 
 	<div class="container-fluid">
 		<div class="row title">
-			<div class="col-md-8 col-lg-8" id="title">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="title">
 				<?php print $content['top']; ?>
 			</div>
 		</div>
@@ -31,35 +31,30 @@
 
 	<div class="container-fluid">
 		<div class="row content">
-			<div class="col-md-8">
+			<section class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 				<?php print $content['body']; ?>
 
-				<section class="row">
+
 				<div class="col-xs-12 col-sm-4 col-md-4">
 						<?php print $content['section1']; ?>
 				</div>
-			</section>
 
-			<section class="row">
 				<div class="col-xs-12 col-sm-4 col-md-4">
 						<?php print $content['section2']; ?>
 				</div>
-			</section>
 
-			<section class="row">
 				<div class="col-sx-12 col-sm-4 col-md-4">
 					<?php print $content['section3']; ?>
 				</div>
-			</section>
 
-		</div> <!--end column search, recent, collections-->
+		</section>
 
-		<section class ="col-md-3" id="toolkits">
+		<section class ="col-xs-12 col-sm-12 col-md-3 col-lg-3" id="toolkits">
 			<?php print $content['sidebar']; ?>
 		</section>
 
 	</div> <!-- row 2 column layout-->
-</digit v> <!-- container 2 column layout-->
+</div> <!-- container 2 column layout-->
 
 <!--footer-->
 	<footer class="container-fluid">
