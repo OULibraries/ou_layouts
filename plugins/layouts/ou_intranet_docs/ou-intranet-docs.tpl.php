@@ -57,7 +57,7 @@
 		</section>
 
 	</div> <!-- row 2 column layout-->
-</div> <!-- container 2 column layout-->
+</digit v> <!-- container 2 column layout-->
 
 <!--footer-->
 	<footer class="container-fluid">
