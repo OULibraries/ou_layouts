@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
 
 <!--header and nav buttons for page-->
@@ -89,48 +88,8 @@
 	</div>
 </div>
 
-<!--start 2 column layout-->
-
-	<div class="container-fluid">
-		<div class="row content">
-			<div class="col-md-8 col-lg-8">
-				<?php print $content['body']; ?>
-
-				<section class="row">
-				<div class ="col-md-8 col-lg-8">
-				<div class="col-xs-12 col-sm-4 col-md-4">
-						<?php print $content['section1']; ?>
-				</div>
-			</section>
-
-			<section class="row">
-				<div class="col-xs-12 col-sm-4 col-md-4">
-						<?php print $content['section2']; ?>
-				</div>
-			</section>
-
-			<section class="row">
-				<div class="col-sx-12 col-sm-4 col-md-4">
-					<?php print $content['section3']; ?>
-				</div>
-			</section>
-
-		</div>
-		</div> <!--end column search, recent, collections-->
-
-		<section class ="col-md-3" id="toolkits">
-			<?php print $content['sidebar']; ?>
-		</section>
-
-	</div> <!-- row 2 column layout-->
-</digit v> <!-- container 2 column layout-->
-
-<!--footer-->
-	<footer class="container-fluid">
->>>>>>> 2fd7f4ccd1417a9c72a6189c20fa7725ea017eb9
-		<section class="col-md-12" id="footer">
-			<?php print $content['bottom']; ?>
-		</section>
-	</footer>
-
-</div>
+<footer class="container-fluid">
+	<section class="col-md-12" id="footer">
+		<?php print $content['bottom']; ?>
+	</section>
+</footer>
