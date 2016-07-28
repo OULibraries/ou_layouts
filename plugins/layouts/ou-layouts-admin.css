@@ -185,12 +185,9 @@
 .panels-dnd .ou-more-stats #panel-region-foot5 {width: 23.0%;}
 
 .panels-dnd .ou-intranet-docs #panel-region-top {width: 98.0%;}
-.panels-dnd .ou-resources #panel-region-searchl {width: 31.333%;}
-.panels-dnd .ou-resources #panel-region-search2 {width: 31.333%;}
-.panels-dnd .ou-resources #panel-region-search3 {width: 31.333%;}
 .panels-dnd .ou-intranet-docs #panel-region-body {width: 64.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-section1 {width: 31.333.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-section2 {width: 31.3330%;}
-.panels-dnd .ou-intranet-docs #panel-region-section3 {width: 31.3330%;}
-.panels-dnd .ou-intranet-docs #panel-region-sidebar {width: 32.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-bottom {width: 98.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-sidebar {width: 34.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-section1 {width: 32.666%;}
+.panels-dnd .ou-intranet-docs #panel-region-section2 {width: 32.666%;}
+.panels-dnd .ou-intranet-docs #panel-region-section3 {width: 32.666%;}
+
