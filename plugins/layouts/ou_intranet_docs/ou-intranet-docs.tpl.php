@@ -4,7 +4,7 @@
 
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-6 col-md-offset-0 col-md-4 col-lg-offset-0 col-lg-4">
+			<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-6 col-md-offset-0 col-md-4 col-lg-offset-0 col-lg-4" id="upload">
 				<?php print $content['top']; ?>
 			</div>
 		</div>
