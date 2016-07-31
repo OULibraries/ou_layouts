@@ -12,7 +12,7 @@
 <!--start 2 column layout-->
 
 	<div class="container-fluid">
-		<div class="row content">
+		<div class="row">
 			<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-6 col-md-offset-0 col-md-8 col-lg-offset-0 col-lg-8">
 
 				<!--Recently Added View--->
