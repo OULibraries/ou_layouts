@@ -4,7 +4,7 @@
 
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-6 col-md-offset-0 col-md-4 col-lg-offset-0 col-lg-4" id="upload">
+			<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-6 col-md-offset-0 col-md-4 col-lg-offset-0 col-lg-4">
 				<?php print $content['top']; ?>
 			</div>
 		</div>
@@ -26,15 +26,15 @@
 			<div class="row">
 				<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-0 col-md-12 col-lg-offset-0 col-lg-12" id="collection">
 
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" id="cbp-ig-grid">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 						<?php print $content['section1']; ?>
 					</div>
 
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" id="cbp-ig-grid">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 						<?php print $content['section2']; ?>
 					</div>
 
-					<div class="col-sx-12 col-sm-4 col-md-4 col-lg-4" id="cbp-ig-grid">
+					<div class="col-sx-12 col-sm-4 col-md-4 col-lg-4">
 						<?php print $content['section3']; ?>
 					</div>
 
