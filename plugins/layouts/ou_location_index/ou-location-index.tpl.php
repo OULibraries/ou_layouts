@@ -3,9 +3,12 @@
  
   <div class="container-fluid">
 	  <div class="row">
-		<?php print $content['top']; ?>
+		<div class="col-md-12">
+			<?php print $content['top']; ?>
+		</div>
 	  </div>
-	  <div>
+	  
+	  <div class="row">
 		<div class="col-md-6">
 			<?php print $content['tleft']; ?>
 		</div>
@@ -14,9 +17,11 @@
 			<?php print $content['tright']; ?>
 		</div>
 	  </div>
+	  
 	  <div class="row">
-		
-		<?php print $content['mheader']; ?>
+		<div class="col-md-12">
+			<?php print $content['mheader']; ?>
+		</div>
 		
 	  </div>
 	    <div class="row">
@@ -39,7 +44,9 @@
 	  </div>
 	  
 	  <div class="row">
+	  <div class="col-md-12">
 		<?php print $content['bottom']; ?>
+		</div>
 	  </div>
 	</div>
 </div>
