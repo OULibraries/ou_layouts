@@ -11,6 +11,7 @@ $plugin = array(
   'theme' => 'ou_more_stats',
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
+    'header' =>('Header'),
     'top' => t('top'),
     'top1' => t('Top 1'),
     'top2' => t('Top 2'),
