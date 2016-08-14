@@ -4,32 +4,26 @@
 } ?>>
 
   <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="row">
+   
+        <div class="row at-a-glance">
           <div class="col-md-12">
-            <?php print $content['topP']; ?>
+            <?php print $content['top']; ?>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-md-2">
+        
+        <div class="row" style="margin:15px;">
+          <div class="col-md-3 content-border sidebar-center">
             <?php print $content['top1']; ?>
           </div>
-          <div class="col-md-2">
+          <div class="col-md-3 content-border sidebar-center">
             <?php print $content['top2']; ?>
           </div>
-          <div class="col-md-2">
+          <div class="col-md-3 content-border sidebar-center">
             <?php print $content['top3']; ?>
           </div>
-          <div class="col-md-2">
+          <div class="col-md-3 content-border sidebar-center">
             <?php print $content['top4']; ?>
           </div>
-          <div class="col-md-2">
-            <?php print $content['top5']; ?>
-          </div>
-          <div class="col-md-2">
-            <?php print $content['top6']; ?>
-          </div>
+		  </div>
         </div>
       </div>
       <div class="row">
