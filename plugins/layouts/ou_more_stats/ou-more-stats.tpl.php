@@ -4,7 +4,11 @@
 } ?>>
 
   <div class="container-fluid">
-   
+        <div class="row">  
+		  <div class="col-md-12">
+            <?php print $content['header']; ?>
+          </div>
+		</div> 
         <div class="row at-a-glance">
           <div class="col-md-12">
             <?php print $content['top']; ?>
