@@ -35,5 +35,6 @@ $plugin = array(
     'foot3' => t('Foot 3'),
     'foot4' => t('Foot 4'),
     'foot5' => t('Foot 5'),
+	'foot6' => t('Foot 6'),
   ),
 );

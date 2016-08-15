@@ -95,6 +95,9 @@
             <div class="col-md-3">
               <?php print $content['foot5']; ?>
             </div>
+			<div class="col-md-12">
+              <?php print $content['foot6']; ?>
+            </div>
           </div>
         </div>
       </div>
