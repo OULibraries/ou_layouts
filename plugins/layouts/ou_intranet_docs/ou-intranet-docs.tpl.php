@@ -1,60 +1,50 @@
 <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
 
-<!--header and nav buttons for page-->
+<!--Upload Button at top of Page-->
 
-	<header class="title container">
+	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-12" id="title">
+			<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-6 col-md-offset-0 col-md-4 col-lg-offset-0 col-lg-4">
 				<?php print $content['top']; ?>
-
-					<div class="nav button row">
-						<section class="col-sm-offset-3 col-md-offset-1 col-lg-offset-1" id="navbutton">
-							<?php print $content['navbar']; ?>
-						</section>
-				</div>
 			</div>
 		</div>
-	</header>
 
 <!--start 2 column layout-->
 
-	<div class="content container">
+	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-8 col-md-8 col-lg-8">
-				<?php print $content['body']; ?>
+			<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-6 col-md-offset-0 col-md-8 col-lg-offset-0 col-lg-8">
 
-				<section class="row" id="search">
-				<div class="col-sm-4 col-md-4 col-lg-4">
+				<!--Recently Added View--->
+				<div class="row">
+					<div class="col-md-12" id="recent">
+						<?php print $content['body']; ?>
+					</div>
+				</div>
+
+			<!--Collections-->
+			<div class="row">
+				<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-0 col-md-12 col-lg-offset-0 col-lg-12" id="collection">
+
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 						<?php print $content['section1']; ?>
-				</div>
-			</section>
+					</div>
 
-			<section class="row">
-				<div class="div-md-12" id="recent">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 						<?php print $content['section2']; ?>
-				</div>
-			</section>
+					</div>
 
-			<section class="row">
-				<div class="col-md-12" id="collections">
-					<?php print $content['section3']; ?>
-				</div>
-			</section>
+					<div class="col-sx-12 col-sm-4 col-md-4 col-lg-4">
+						<?php print $content['section3']; ?>
+					</div>
 
-		</div> <!--end column search, recent, collections-->
+			</div><!--column collections-->
+		</div> <!--row collections-->
+	</div><!--column recent and collections-->
 
-		<section class ="col-sm-offset-1 col-sm-3 col-md-offset-1 col-md-3 col-lg-3" id="toolkits">
+		<div class ="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-3 col-lg-offset-1 col-lg-3" id="toolkits">
 			<?php print $content['sidebar']; ?>
-		</section>
+		</div>
 
 	</div> <!-- row 2 column layout-->
 </div> <!-- container 2 column layout-->
-
-<!--footer-->
-	<footer class="container-fluid">
-		<section class="col-sm-12 col-md-12 col-lg-12" id="footer">
-			<?php print $content['bottom']; ?>
-		</section>
-	</footer>
-
-</div>

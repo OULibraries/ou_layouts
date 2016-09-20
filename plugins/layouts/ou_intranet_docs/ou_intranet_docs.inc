@@ -12,13 +12,11 @@ $plugin = array(
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
     'top' => t('Top'),
-    'navbar' =>t('Nav Bar'),
     'body' => t('Body'),
     'section1' =>t('Section 1'),
     'section2' =>t('Section 2'),
     'section3' =>t('Section 3'),
 	  'sidebar' => t('Sidebar'),
-	  'bottom' => t('Bottom'),
 
   ),
 );

@@ -35,6 +35,19 @@
 .panels-dnd .ou-location-index #panel-region-bleft {width: 48.0%;}
 .panels-dnd .ou-location-index #panel-region-bright {width: 48.0%;}
 
+.panels-dnd .ou-statshome #panel-region-glance-header {width: 98.0%;}
+.panels-dnd .ou-statshome #panel-region-glance-stats1 {width: 22.0%;}
+.panels-dnd .ou-statshome #panel-region-glance-stats2 {width: 22.0%;}
+.panels-dnd .ou-statshome #panel-region-glance-stats3 {width: 22.0%;}
+.panels-dnd .ou-statshome #panel-region-glance-stats4 {width: 22.0%;}
+.panels-dnd .ou-statshome #panel-region-tleft {width: 48.0%;}
+.panels-dnd .ou-statshome #panel-region-tright {width: 48.0%;}
+.panels-dnd .ou-statshome #panel-region-mheader {width: 98.0%;}
+.panels-dnd .ou-statshome #panel-region-mleft {width: 48.0%;}
+.panels-dnd .ou-statshome #panel-region-mright {width: 48.0%;}
+.panels-dnd .ou-statshome #panel-region-bleft {width: 48.0%;}
+.panels-dnd .ou-statshome #panel-region-bright {width: 48.0%;}
+
 .panels-dnd .ou-exhibit #panel-region-tleft {width: 48.0%;}
 .panels-dnd .ou-exhibit #panel-region-tright {width: 48.0%;}
 .panels-dnd .ou-exhibit #panel-region-mheader {width: 98.0%;}
@@ -160,6 +173,7 @@
 .panels-dnd .ou-stats #panel-region-bleft1of2 {width: 32.0%;}
 .panels-dnd .ou-stats #panel-region-bleft2of2 {width: 32.0%;}
 
+.panels-dnd .ou-more-stats #panel-region-header {width: 98.0%;}
 .panels-dnd .ou-more-stats #panel-region-topP {width: 98.0%;}
 .panels-dnd .ou-more-stats #panel-region-top1 {width: 15.0%;}
 .panels-dnd .ou-more-stats #panel-region-top2 {width: 15.0%;}
@@ -183,12 +197,12 @@
 .panels-dnd .ou-more-stats #panel-region-foot3 {width: 23.0%;}
 .panels-dnd .ou-more-stats #panel-region-foot4 {width: 23.0%;}
 .panels-dnd .ou-more-stats #panel-region-foot5 {width: 23.0%;}
+.panels-dnd .ou-more-stats #panel-region-foot6 {width: 98.0%;}
 
 .panels-dnd .ou-intranet-docs #panel-region-top {width: 98.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-navbar {width: 88.0%;}
 .panels-dnd .ou-intranet-docs #panel-region-body {width: 64.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-section1 {width: 64.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-section2 {width: 64.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-section3 {width: 64.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-sidebar {width: 32.0%;}
-.panels-dnd .ou-intranet-docs #panel-region-bottom {width: 98.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-sidebar {width: 34.0%;}
+.panels-dnd .ou-intranet-docs #panel-region-section1 {width: 32.666%;}
+.panels-dnd .ou-intranet-docs #panel-region-section2 {width: 32.666%;}
+.panels-dnd .ou-intranet-docs #panel-region-section3 {width: 32.666%;}
+

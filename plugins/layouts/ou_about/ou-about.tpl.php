@@ -2,12 +2,12 @@
  
   <div class="container-fluid">
   
-	  <div class="row">
-		<div class="col-md-8">
+	  <div class="row content-border">
+		<div class="col-md-9">
 			<?php print $content['top1']; ?>
 		</div>
 		
-		<div class="col-md-4">
+		<div class="col-md-3">
 			<?php print $content['top2']; ?>
 		</div>
 	  </div>
@@ -56,7 +56,7 @@
 	 
 	 
 	  <div class="col-md-12">
-		<h2>COMMITTEES</h2>
+		<h2>GOVERNANCE</h2>
 	  </div>
 	 
 	 <div class="row content-border">
