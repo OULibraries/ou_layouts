@@ -20,17 +20,17 @@
 		</div>
 	  </div>
 	  
-	    <div class="row">
+	  <div class="row">
 		<div class="col-md-6">
 			<?php print $content['websites']; ?>
-		</div>
+	    </div>
 		
 		<div class="col-md-6">
 			<?php print $content['guides']; ?>
 		</div>	
-	   </div>
+	  </div>
 	   
-	   <div class="row">
+	  <div class="row">
 		<div class="col-md-6">
 			<?php print $content['shareok']; ?>
 		</div>
@@ -43,11 +43,11 @@
 	  <div class="col-md-12">
 		<?php print $content['specialists']; ?>
 	  </div>
-	</div>
 	
 	  <div class="col-md-12">
 		<?php print $content['othersearch']; ?>
 	  </div>
+	
 	</div>
 	
 </div>
