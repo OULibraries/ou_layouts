@@ -2,12 +2,17 @@
  <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
  
   <div class="container-fluid">
-	  <div class="col-md-12">
-		<?php print $content['search']; ?>
+	  
+	  <div class="row">
+		  <div class="col-md-12">
+			<?php print $content['search']; ?>
+		  </div>
 	  </div>
 	  
-	  <div class="col-md-12">
-		<?php print $content['header']; ?>
+	  <div class="row">
+		  <div class="col-md-12">
+			<?php print $content['header']; ?>
+		  </div>
 	  </div>
 	  
 	  <div class="row">
@@ -39,14 +44,18 @@
 			<?php print $content['speccoll']; ?>
 		</div>	
 	  </div>
-	  
-	  <div class="col-md-12">
-		<?php print $content['specialists']; ?>
-	  </div>
-	
-	  <div class="col-md-12">
-		<?php print $content['othersearch']; ?>
-	  </div>
+	 
+	 <div class="row">
+		  <div class="col-md-12">
+			<?php print $content['specialists']; ?>
+		  </div>
+	 </div>
+	 
+	<div class="row">
+		 <div class="col-md-12">
+			<?php print $content['othersearch']; ?>
+		 </div>
+	</div>
 	
 	</div>
 	
