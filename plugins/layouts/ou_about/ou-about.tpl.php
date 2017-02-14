@@ -55,17 +55,9 @@
 	 </div>
 	 
 	 
-	  <div class="col-md-12">
-		<h2>GOVERNANCE</h2>
-	  </div>
-	 
 	 <div class="row content-border">
-		<div class="col-md-6">
-			<?php print $content['left1']; ?>
-		</div>
-		
-		<div class="col-md-6">
-			<?php print $content['right1']; ?>
+		<div class="col-md-12">
+			<?php print $content['governance']; ?>
 		</div>
 	  </div>
 	  
