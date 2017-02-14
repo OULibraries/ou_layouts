@@ -61,18 +61,9 @@
 		</div>
 	  </div>
 	  
-	  
-	  <div class="col-md-12">
-		<h2>UNITS</h2>
-	  </div>
-	  
 	  <div class="row content-border">
-		<div class="col-md-6">
-			<?php print $content['left2']; ?>
-		</div>
-		
-		<div class="col-md-6">
-			<?php print $content['right2']; ?>
+		<div class="col-md-12">
+			<?php print $content['departments']; ?>
 		</div>
 	  </div>
 	  
