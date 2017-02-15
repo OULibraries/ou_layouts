@@ -19,7 +19,8 @@ $plugin = array(
     'guides' => t('Research Guides'),
 	'shareok' => t('ShareOK'),
     'speccoll' => t('Special Collections'),
-    'specialists' => t('Research Specialists'),
+    'extra1' => t('Extra Box 1'),
+	'extra2' => t('Extra Box 2'),
 	'othersearch' => t('Other Searches'),
   ),
 );

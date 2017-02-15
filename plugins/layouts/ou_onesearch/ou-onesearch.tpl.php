@@ -45,12 +45,16 @@
 		</div>	
 	  </div>
 	 
-	 <div class="row">
-		  <div class="col-md-12">
-			<?php print $content['specialists']; ?>
-		  </div>
-	 </div>
-	 
+	  <div class="row">
+		<div class="col-md-6">
+			<?php print $content['extra1']; ?>
+		</div>
+		
+		<div class="col-md-6">
+			<?php print $content['extra2']; ?>
+		</div>	
+	  </div>
+	
 	<div class="row">
 		 <div class="col-md-12">
 			<?php print $content['othersearch']; ?>
