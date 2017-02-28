@@ -116,6 +116,20 @@
 .panels-dnd .ou-resources #panel-region-lbottom {width: 48.0%;}
 .panels-dnd .ou-resources #panel-region-rbottom {width: 48.0%;}
 
+.panels-dnd .ou-dashboard #panel-region-header {width: 99.0%;}
+.panels-dnd .ou-dashboard #panel-region-topl {width: 31.333%;}
+.panels-dnd .ou-dashboard #panel-region-topm {width: 31.333%;}
+.panels-dnd .ou-dashboard #panel-region-topr {width: 31.333%;}
+.panels-dnd .ou-dashboard #panel-region-main {width: 73.0%;}
+.panels-dnd .ou-dashboard #panel-region-sidebar {width: 23.0%;}
+.panels-dnd .ou-dashboard #panel-region-middle {width: 98.0%;}
+.panels-dnd .ou-dashboard #panel-region-lmiddle {width: 48.0%;}
+.panels-dnd .ou-dashboard #panel-region-rmiddle {width: 48.0%;}
+.panels-dnd .ou-dashboard #panel-region-bottom {width: 98.0%;}
+.panels-dnd .ou-dashboard #panel-region-reviewheader {width: 98.0%;}
+.panels-dnd .ou-dashboard #panel-region-lreview {width: 48.0%;}
+.panels-dnd .ou-dashboard #panel-region-rreview {width: 48.0%;}
+
 .panels-dnd .ou-gw #panel-region-top1 {width: 58.0%;}
 .panels-dnd .ou-gw #panel-region-top2 {width: 38.0%;}
 .panels-dnd .ou-gw #panel-region-tleft {width: 48.0%;}
