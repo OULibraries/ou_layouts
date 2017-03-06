@@ -21,9 +21,7 @@ $plugin = array(
 	'item6' => t('Item 6'),
 	'mleft' => t('Middle Left'),
 	'mright' => t('Middle Right'),
-	'left1' => t('Bottom Left 1'),
-	'right1' => t('Bottom Right 1'),
-	'left2' => t('Bottom Left 2'),
-    'right2' => t('Bottom Right 2'),
+	'governance' => t('Governance'),
+	'departments' => t('Departments'),
   ),
 );

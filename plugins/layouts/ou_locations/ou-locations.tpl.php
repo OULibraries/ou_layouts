@@ -26,7 +26,7 @@
 			</div>
 		</div>
 		
-		<div class="row">
+		<div class="row location_columns_top">
 			<div class="col-md-6">
 				<?php print $content['left']; ?>
 			</div>
@@ -35,7 +35,7 @@
 			</div>
 		</div>
 		
-		<div class="row">
+		<div class="row location_columns_bottom">
 			<div class="col-md-6">
 				<?php print $content['tleft']; ?>
 			</div>
