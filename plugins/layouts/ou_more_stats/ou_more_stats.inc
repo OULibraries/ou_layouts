@@ -7,7 +7,7 @@
 $plugin = array(
   'title' => t('OU More Stats'),
   'category' => t('Bootstrap'),
-  'icon' => 'ou_stats.png',
+  'icon' => 'ou_more_stats',
   'theme' => 'ou_more_stats',
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
