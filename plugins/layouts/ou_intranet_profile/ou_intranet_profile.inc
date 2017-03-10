@@ -5,7 +5,7 @@
  */
 // Plugin definition
 $plugin = array(
-  'title' => t('Intranet Sidebar'),
+  'title' => t('Intranet Profile'),
   'category' => t('Bootstrap'),
   'icon' => 'ou_intranet_sidebar.png',
   'theme' => 'ou_intranet_sidebar',
