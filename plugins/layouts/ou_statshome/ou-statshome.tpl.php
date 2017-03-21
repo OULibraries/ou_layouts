@@ -2,7 +2,7 @@
  <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
  
   <div class="container-fluid">
-	<div class="row at-a-glance">
+	<div class="at-a-glance">
 		<div class="row" style="margin:15px;">
 			<div class="col-md-12">
 				<?php print $content['glance-header']; ?>
