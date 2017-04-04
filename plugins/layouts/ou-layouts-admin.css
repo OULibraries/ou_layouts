@@ -162,6 +162,10 @@
 .panels-dnd .ou-intranet-sidebar #panel-region-body1 {width: 64.0%;}
 .panels-dnd .ou-intranet-sidebar #panel-region-bottom {width: 98.0%;}
 
+.panels-dnd .ou-intranet-profile #panel-region-top {width: 98.0%;}
+.panels-dnd .ou-intranet-profile #panel-region-sidebar {width: 32.0%;}
+.panels-dnd .ou-intranet-profile #panel-region-body {width: 64.0%;}
+.panels-dnd .ou-intranet-profile #panel-region-bottom {width: 98.0%;}
 
 .panels-dnd .ou-about #panel-region-top1 {width: 58.0%;}
 .panels-dnd .ou-about #panel-region-top2 {width: 38.0%;}
