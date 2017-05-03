@@ -233,3 +233,9 @@
 .panels-dnd .ou-onesearch #panel-region-extra1 {width: 48.0%;}
 .panels-dnd .ou-onesearch #panel-region-extra2 {width: 48.0%;}
 .panels-dnd .ou-onesearch #panel-region-othersearch {width: 98.0%;}
+
+.panels-dnd .ou-marketing #panel-region-tleft {width: 48.0%;}
+.panels-dnd .ou-marketing #panel-region-tright {width: 48.0%;}
+.panels-dnd .ou-marketing #panel-region-middle {width: 98.0%;}
+.panels-dnd .ou-marketing #panel-region-bleft {width: 32.666%;}
+.panels-dnd .ou-marketing #panel-region-bright {width: 66.0%;}
