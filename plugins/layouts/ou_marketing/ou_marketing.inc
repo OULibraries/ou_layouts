@@ -5,7 +5,7 @@
  */
 // Plugin definition
 $plugin = array(
-  'title' => t('Location Index'),
+  'title' => t('OU Marketing'),
   'category' => t('Bootstrap'),
   'icon' => 'ou_marketing.png',
   'theme' => 'ou_marketing',
