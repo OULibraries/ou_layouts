@@ -130,17 +130,23 @@
 .panels-dnd .ou-dashboard #panel-region-lreview {width: 48.0%;}
 .panels-dnd .ou-dashboard #panel-region-rreview {width: 48.0%;}
 
-.panels-dnd .ou-gw #panel-region-top1 {width: 58.0%;}
-.panels-dnd .ou-gw #panel-region-top2 {width: 38.0%;}
-.panels-dnd .ou-gw #panel-region-tleft {width: 48.0%;}
-.panels-dnd .ou-gw #panel-region-tright {width: 48.0%;}
-.panels-dnd .ou-gw #panel-region-middle {width: 98.0%;}
-.panels-dnd .ou-gw #panel-region-mdetail {width: 10.0%;}
+.panels-dnd .ou-gw #panel-region-top {width: 98.0%;}
 .panels-dnd .ou-gw #panel-region-mleft {width: 28.0%;}
 .panels-dnd .ou-gw #panel-region-mmiddle {width: 28.0%;}
 .panels-dnd .ou-gw #panel-region-mright {width: 28.0%;}
-.panels-dnd .ou-gw #panel-region-bleft {width: 63.0%;}
-.panels-dnd .ou-gw #panel-region-bright {width: 33.0%;}
+.panels-dnd .ou-gw #panel-region-mid-bottom-left {width: 48.0%;}
+.panels-dnd .ou-gw #panel-region-mid-bottom-right {width: 48.0%;}
+.panels-dnd .ou-gw #panel-region-bottom {width: 98.0%;}
+
+.panels-dnd .ou-gw-cas #panel-region-top {width: 98.0%;}
+.panels-dnd .ou-gw-cas #panel-region-mleft {width: 32.0%;}
+.panels-dnd .ou-gw-cas #panel-region-mmiddle {width: 32.0%;}
+.panels-dnd .ou-gw-cas #panel-region-mright {width: 32.0%;}
+.panels-dnd .ou-gw-cas #panel-region-mid-bottom-left {width: 48.0%;}
+.panels-dnd .ou-gw-cas #panel-region-mid-bottom-right {width: 48.0%;}
+.panels-dnd .ou-gw-cas #panel-region-login-left {width: 48.0%;}
+.panels-dnd .ou-gw-cas #panel-region-login-right {width: 48.0%;}
+.panels-dnd .ou-gw-cas #panel-region-bottom {width: 98.0%;}
 
 .panels-dnd .ou-rooms #panel-region-rooms_pic {width: 38.0%;}
 .panels-dnd .ou-rooms #panel-region-rooms_description {width: 58.0%;}
