@@ -130,6 +130,14 @@
 .panels-dnd .ou-dashboard #panel-region-lreview {width: 48.0%;}
 .panels-dnd .ou-dashboard #panel-region-rreview {width: 48.0%;}
 
+.panels-dnd .ou-repository #panel-region-header {width: 98.0%;}
+.panels-dnd .ou-repository #panel-region-left {width: 48.0%;}
+.panels-dnd .ou-repository #panel-region-right {width: 48.0%;}
+.panels-dnd .ou-repository #panel-region-middle1 {width: 31.333%;}
+.panels-dnd .ou-repository #panel-region-middle2 {width: 31.333%;}
+.panels-dnd .ou-repository #panel-region-middle3 {width: 31.333%;}
+.panels-dnd .ou-repository #panel-region-bottom {width: 98.0%;}
+
 .panels-dnd .ou-gw #panel-region-top {width: 98.0%;}
 .panels-dnd .ou-gw #panel-region-mleft {width: 28.0%;}
 .panels-dnd .ou-gw #panel-region-mmiddle {width: 28.0%;}
