@@ -194,6 +194,27 @@
 .panels-dnd .ou-about #panel-region-governance {width: 98.0%;}
 .panels-dnd .ou-about #panel-region-departments {width: 98.0%;}
 
+.panels-dnd .ou-renegades #panel-region-top1 {width: 32.0%;}
+.panels-dnd .ou-renegades #panel-region-top2 {width: 64.0%;}
+.panels-dnd .ou-renegades #panel-region-item1 {width: 98.0%;}
+.panels-dnd .ou-renegades #panel-region-item2 {width: 32.0%;}
+.panels-dnd .ou-renegades #panel-region-item3 {width: 64.0%;}
+.panels-dnd .ou-renegades #panel-region-item4 {width: 32.0%;}
+.panels-dnd .ou-renegades #panel-region-item5 {width: 64.0%;}
+.panels-dnd .ou-renegades #panel-region-item6 {width: 32.0%;}
+.panels-dnd .ou-renegades #panel-region-item7 {width: 64.0%;}
+
+.panels-dnd .ou-renegades-home #panel-region-top1 {width: 32.0%;}
+.panels-dnd .ou-renegades-home #panel-region-top2 {width: 64.0%;}
+.panels-dnd .ou-renegades-home #panel-region-item1 {width: 98.0%;}
+.panels-dnd .ou-renegades-home #panel-region-item2 {width: 32.0%;}
+.panels-dnd .ou-renegades-home #panel-region-item3 {width: 64.0%;}
+.panels-dnd .ou-renegades-home #panel-region-item4 {width: 32.0%;}
+.panels-dnd .ou-renegades-home #panel-region-item5 {width: 64.0%;}
+.panels-dnd .ou-renegades-home #panel-region-item6 {width: 32.0%;}
+.panels-dnd .ou-renegades-home #panel-region-item7 {width: 64.0%;}
+
+
 .panels-dnd .ou-stats #panel-region-tleft {width: 64.0%;}
 .panels-dnd .ou-stats #panel-region-tright {width: 32.0%;}
 .panels-dnd .ou-stats #panel-region-tleft2 {width: 64.0%;}
