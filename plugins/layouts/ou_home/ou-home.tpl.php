@@ -1,8 +1,24 @@
 <div class="<?php print $classes ?>" <?php if (!empty($css_id)) { print "id=\"$css_id\""; } ?>>
+    <div class="row">
+        <?php print $content['top']; ?>
+    </div>
   <div class="container-fluid">
-	  <div class="row">
-		<?php print $content['top']; ?>
-	  </div>
+
+      <div class="row">
+          <div class="col-md-3">
+              <?php print $content['chleft']; ?>
+          </div>
+          <div class="col-md-3">
+              <?php print $content['chmidleft']; ?>
+          </div>
+          <div class="col-md-3">
+              <?php print $content['chmidright']; ?>
+          </div>
+          <div class="col-md-3">
+              <?php print $content['chright']; ?>
+          </div>
+      </div>
+
 	  <div class="row quicklinks">
 		<div class="col-md-4">
 			<?php print $content['tleft']; ?>
