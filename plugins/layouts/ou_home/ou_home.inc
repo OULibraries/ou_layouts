@@ -12,6 +12,7 @@ $plugin = array(
   'admin css' => '../ou-layouts-admin.css',
   'regions' => array(
     'top' => t('Top'),
+    'chartshead' => t('Charts Header'),
     'chleft' => t('Charts Left'),
     'chmidleft' => t('Charts Middle Left'),
     'chmidright' => t('Charts Middle Right'),
