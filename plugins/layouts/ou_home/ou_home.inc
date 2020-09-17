@@ -17,6 +17,7 @@ $plugin = array(
     'chmidleft' => t('Charts Middle Left'),
     'chmidright' => t('Charts Middle Right'),
     'chright' => t('Charts Right'),
+    'chartsfoot' => t('Charts Footer'),
     'tleft' => t('Top Left'),
     'tmid' => t('Top Middle'),
         'tright' => t('Top Right'),
